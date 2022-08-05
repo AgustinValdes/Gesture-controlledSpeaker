@@ -22,3 +22,5 @@ This collaborative effort was thoroughly enjoyable, even when we
 experienced hiccups along the way!
 
 Our final presentation and demonstration is located here: https://youtu.be/Px_dOdVaAMs
+
+![Speaker thumbnail](https://user-images.githubusercontent.com/34201673/183148125-3966b17b-3100-4a5d-8fe1-f6112f048698.png)
